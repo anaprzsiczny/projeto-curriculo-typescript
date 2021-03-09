@@ -9,7 +9,7 @@ function Header(prop: RespostaHeader) {
   return (
     <>
       <div className="perfil">
-        <img src="/images/20201231_232712.jpg" alt="Perfil" />
+        <img src="images/20201231_232712.jpg" alt="Perfil" />
       </div>
       <div className="biografia">
         <h1>
